@@ -1,6 +1,8 @@
-import random
 
+import random 
+#title of password generator
 print("welcome to automatic  random password genateror")
+#password characters
 auto_char=("zxcvbnmlkjhgfdsaqwertyuiop1234567890QWERTYUIOPLKJHGFDSAZXCVBNM!@#$%&*")
 no_of_passwords=int(input('number of automatic random passwords: '))
 len_of_passwords=int(input('lenth of automatic random passwords: '))
