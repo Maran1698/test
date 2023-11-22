@@ -1,7 +1,8 @@
+#welcome notes
 print("welcome to my quiz game!")
-
+#enter the input
 player = input("Do you want to play? ")
-
+#if class for enter qustion -'yes or no'
 if player.lower() != "yes":
     quit()
 
