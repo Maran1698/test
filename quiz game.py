@@ -1,3 +1,10 @@
+---this is quis game 
+    i have a habite with some to asking any question .i need to find out the answers othewise i am festrating.
+    so i develope this qeis game 
+
+your also enjoy it..are you like-------
+
+
 #welcome notes
 print("welcome to my quiz game!")
 #enter the input
@@ -35,5 +42,14 @@ if int(answer) == 15:
 # answer not correct 
 else:
     print("Better luck next time.")
+#4st question
+answer = input("What does 30-14 equal? ")
+# answer correct means score gives 1
+if int(answer) == 16:
+    print("Correct!")
+    score += 1
+# answer not correct 
+else:
+    print("Better luck next time.")    
 #thank u note and add no of score
 print("Thank you! You got " + str(score) + " questions correct :)")
