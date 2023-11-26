@@ -50,6 +50,15 @@ if int(answer) == 16:
     score += 1
 # answer not correct 
 else:
+    print("Better luck next time.")
+#5st question
+answer = input("What does 10*2 equal? ")
+# answer correct means score gives 1
+if int(answer) == 20:
+    print("Correct!")
+    score += 1
+# answer not correct 
+else:
     print("Better luck next time.")    
 #thank u note and add no of score
 print("Thank you! You got " + str(score) + " questions correct :)")
