@@ -1,8 +1,8 @@
----this is quis game 
-    i have a habite with some to asking any question .i need to find out the answers othewise i am festrating.
-    so i develope this qeis game 
+#---this is quis game 
+ #   i have a habite with some to asking any question .i need to find out the answers othewise i am festrating.
+  #  so i develope this qeis game 
 
-your also enjoy it..are you like-------
+#your also enjoy it..are you like-------
 
 
 #welcome notes
