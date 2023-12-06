@@ -16,7 +16,7 @@ user_input = input("How many characters do you want in your password? ")
 
 # check this input is it number? is it more than 8?
 while True:
-
+#try is the function it allows known errors
     try:
 
         characters_number = int(user_input)
