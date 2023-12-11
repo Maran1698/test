@@ -24,7 +24,7 @@ if answer.lower() == "indian administrative service":
 # answer not correct     
 else:
     print("Better luck next time.")
-#2st question
+#2nd question
 answer = input("What does IPS stand for? ")
 # answer correct means score gives 1
 if answer.lower() == "indian police service":
@@ -33,7 +33,7 @@ if answer.lower() == "indian police service":
 # answer not correct 
 else:
     print("Better luck next time.")
-#3st question
+#3rd question
 answer = input("What does 6 + 9 equal? ")
 # answer correct means score gives 1
 if int(answer) == 15:
@@ -42,7 +42,7 @@ if int(answer) == 15:
 # answer not correct 
 else:
     print("Better luck next time.")
-#4st question
+#4th question
 answer = input("What does 30-14 equal? ")
 # answer correct means score gives 1
 if int(answer) == 16:
@@ -51,7 +51,7 @@ if int(answer) == 16:
 # answer not correct 
 else:
     print("Better luck next time.")
-#5st question
+#5th question
 answer = input("What does 10*2 equal? ")
 # answer correct means score gives 1
 if int(answer) == 20:
