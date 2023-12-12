@@ -1,2 +1,2 @@
-# test
+# Mini projects
 this is my first  repository
