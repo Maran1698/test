@@ -3,7 +3,7 @@ import string
 import random
 
 
-# store all characters in lists 
+# store all characters in lists :
 s1 = list(string.ascii_lowercase)
 s2 = list(string.ascii_uppercase)
 s3 = list(string.digits)
