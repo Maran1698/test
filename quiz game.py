@@ -5,7 +5,7 @@
 #your also enjoy it..are you like-------
 
 
-#welcome notes
+#welcome notes:
 print("welcome to my quiz game!")
 #enter the input
 player = input("Do you want to play? ")
