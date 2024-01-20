@@ -1,6 +1,6 @@
 
 import random 
-#title of password generator
+#title of password generator:
 print("welcome to automatic  random password genateror")
 #password characters
 auto_char=("zxcvbnmlkjhgfdsaqwertyuiop1234567890QWERTYUIOPLKJHGFDSAZXCVBNM!@#$%&*")
